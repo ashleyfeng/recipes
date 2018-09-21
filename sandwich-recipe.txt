@@ -1,0 +1,14 @@
+Ingredients:
+  - Bread
+  - Peanut butter
+  - Strawberry jelly
+  - Nutella (optional)
+  - Knife
+
+Directions:
+  1. Take out two pieces of Bread
+  2. Scoop some peanut butter onto the knife
+  3. Evenly spread the peanut butter onto the side of
+  one piece of Bread
+  4. Repeat steps 2 and 3 for the strawberry jelly (and Nutella if desired)
+  5. Put the other piece of bread onto the first piece; Enjoy!
